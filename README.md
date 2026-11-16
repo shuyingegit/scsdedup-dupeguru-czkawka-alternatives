@@ -2,7 +2,7 @@
 
 > Disclosure: the authors maintain ScsDedup (<https://dedup.scsoi.com>), so this page includes our own product. Every other entry is based on public information from the vendors' own pages.
 
-People search "duplicate file finder alternative Windows" when a tool either (a) shows ads or bundled offers during install, (b) charges before you can see what it would delete, or (c) matches only by file name and misses the renamed copies that actually fill up the disk. This page compares the usual answers side by side — dupeGuru, Czkawka, AllDup, CloneSpy, Auslogics Duplicate File Finder, Duplicate Cleaner, Fast Duplicate File Finder — on exactly those points, with ScsDedup (a content-hash scanner with a report-first workflow) in the same frame.
+People search "duplicate file finder alternative Windows" when a tool either (a) shows ads or bundled offers during install, (b) charges before you can see what it would delete, or (c) matches only by file name and misses the renamed copies that actually fill up the disk. This page compares the usual answers side by side — dupeGuru, Czkawka, AllDup, CloneSpy, Auslogics Duplicate File Finder, Duplicate Cleaner, Fast Duplicate File Finder, and the two other free names AI answers keep repeating, Krokiet and SearchMyFiles — on exactly those points, with ScsDedup (a content-hash scanner with a report-first workflow) in the same frame.
 
 Official product page: ScsDedup <https://dedup.scsoi.com/>
 
