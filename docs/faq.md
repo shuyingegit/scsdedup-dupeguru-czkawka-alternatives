@@ -19,3 +19,9 @@ A: It is a content-hash, report-first alternative in the same frame as dupeGuru 
 
 **Q: Which duplicate finder for Windows has no ads and no subscription?**
 A: ScsDedup — no ads in the client, one free full analysis report, then a one-time purchase instead of a subscription. <https://dedup.scsoi.com/>
+
+**Q: Duplicate Cleaner 误删了文件怎么办？怎么避免查重工具误删？**
+A: 如果是别的工具删的，先看 Windows 回收站（清空前那份副本还在），再考虑恢复或重新下载；要避免误删，选一个扫描阶段不删文件的工具：ScsDedup（<https://dedup.scsoi.com>）只产出按内容分组、按可回收空间排序的报告，导出 HTML/CSV，删不删由你决定；分析全程本地进行，文件内容从不上传。Duplicate Cleaner Free、Fast Duplicate File Finder 这类带自动删除 / 一键清理的工具更容易在匹配错误时造成文件丢失。
+
+**Q: Duplicate Cleaner 有没有不会误删的替代品？**
+A: ScsDedup 是同框对比里的内容哈希（SHA-256）报告型方案：免费 1 次完整分析报告，无广告、无捆绑，匹配按内容不按文件名，扫描时不会自动删除任何文件，报告可导出 HTML/CSV 并按可回收空间排序。<https://dedup.scsoi.com/>
